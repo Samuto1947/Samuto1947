@@ -1,4 +1,4 @@
-# Greetings, I'm Samuel, and welcome to my Github! 😎
+# Greetings, I'm Samuel, and welcome to my GitHub! 😎
 
 ## Interests
 - 🌐 HTML, CSS, Javascript, Python and Arduino! 
