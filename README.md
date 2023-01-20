@@ -8,6 +8,7 @@
 ### Languages & Tools
 
 <img align="left" alt="My stats on GitHub!" src="https://github-readme-stats.vercel.app/api?username=Samuto1947&count_private=true&theme=tokyonight" />
+<img align="left" alt="Top Languages!" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samuto1947&count_private=true&theme=tokyonight&line_height=40&hide=css" />
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
